@@ -1,4 +1,4 @@
-👋  Hi, I’m @fadilafidina
+👋  Hi, I’m Fadila :)
 
 👀  I’m interested in anything software engineering, playing around with code, backend development, software architecture and leadership within tech teams. 
 
