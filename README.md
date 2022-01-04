@@ -4,7 +4,7 @@
 
 🌱  I currently work as a full stack software engineer. Technologies I use include C#, JavaScript, TypeScript, React + Redux, GraphQL, SQL and ElasticSearch.
 
-🍞  I also love to bake - find me on instagram as [@matchadou](https://www.instagram.com/matchadou/).
+🍞  I love to bake! [Here are some of the things I've baked](https://www.instagram.com/matchadou/).
 
 🎨  I also paint! [Here are some of my paintings](https://www.instagram.com/dilajournals/).
 
