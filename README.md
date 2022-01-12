@@ -2,7 +2,7 @@
 
 👀  I’m interested in anything software engineering, playing around with code, backend development, software architecture and leadership within tech teams. 
 
-🌱  I currently work as a full stack software engineer. Technologies I use include C#, JavaScript, TypeScript, React + Redux, GraphQL, SQL and ElasticSearch.
+🌱  I currently work as a full stack software engineer. Technologies I use include C#, JavaScript, TypeScript, React + Redux, GraphQL, SQL, ElasticSearch and a _lot_ of AWS tools.
 
 🍞  I love to bake! [Here are some of the things I've baked](https://www.instagram.com/matchadou/).
 
